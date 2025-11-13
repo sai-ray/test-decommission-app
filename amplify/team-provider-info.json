@@ -16,5 +16,23 @@
         "testdecomf4b5f732": {}
       }
     }
+  },
+  "migrate": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testdecom-migrate-ad547-authRole",
+      "UnauthRoleArn": "arn:aws:iam::014148916658:role/amplify-testdecom-migrate-ad547-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::014148916658:role/amplify-testdecom-migrate-ad547-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-testdecom-migrate-ad547-deployment",
+      "UnauthRoleName": "amplify-testdecom-migrate-ad547-unauthRole",
+      "StackName": "amplify-testdecom-migrate-ad547",
+      "StackId": "arn:aws:cloudformation:us-east-1:014148916658:stack/amplify-testdecom-migrate-ad547/d4f47fa0-c0cc-11f0-8402-0ee5b255f251",
+      "AmplifyAppId": "d1sk99tto9coxh"
+    },
+    "categories": {
+      "auth": {
+        "testdecomf4b5f732": {}
+      }
+    }
   }
 }
